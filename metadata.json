@@ -1,0 +1,5 @@
+{
+  "name": "Payroll Automation Platform",
+  "description": "Enterprise multi-stage payroll automation platform with role-based access control, import center, reconciliation engine, and salary kernel.",
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
